@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jenny Bienes</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [carrier quotes](https://github.com/JennyBienes/carrier-quotes)
+I just finished @Adalab Bootcamp, the knowledge learned is:
 
-- 🌱 I’m currently learning **English**
+- 🌱 HTML5, CSS3, Sass, Bootstrap;
 
-- 👯 I’m looking to collaborate on **New and interesting projects**
+- 👯 JavaScript (with ReactJS) and APIs;
 
-- 🤝 I’m looking for help with **the search for my first opportunity in the sector IT**
+- 🤝 Version control with Git;
 
-- 👨‍💻 All of my projects are available at [https://github.com/JennyBienes](https://github.com/JennyBienes)
+- 👨‍💻 Creation of SPAs with React.
 
-- 💬 Ask me about **React, JavaScript, Html, Sass, Node JS, Express, SQL**
-
-- 📫 How to reach me **bienesjenny@gmail.com**
+- 💬 NOde JS and Express.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
