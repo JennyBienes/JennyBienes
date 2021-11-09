@@ -2,15 +2,15 @@
 
 I just finished @Adalab Bootcamp, the knowledge learned is:
 
-- 🌱 HTML5, CSS3, Sass, Bootstrap;
+- HTML5, CSS3, Sass, Bootstrap;
 
-- 👯 JavaScript (with ReactJS) and APIs;
+- JavaScript (with ReactJS) and APIs;
 
-- 🤝 Version control with Git;
+- Version control with Git;
 
-- 👨‍💻 Creation of SPAs with React.
+- Creation of SPAs with React.
 
-- 💬 NOde JS and Express.
+- Node JS and Express.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
